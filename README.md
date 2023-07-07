@@ -2,7 +2,7 @@
 👨‍💻 Desarrollador especializado en desarrollo web y 🎮 videojuegos.<br><br>💼 Presidente de SODVI (Sociedad de Desarrollo en Videojuegos).<br><br>🎮💻 Experiencia en el desarrollo de videojuegos utilizando Unity, y habilidades en diseño gráfico.<br><br>🏆 Certificaciones en Azure AZ900 y en Fundamentos de Scrum, y reconocimientos por participación destacada en hackatones.<br><br>🔬 Actualmente colaborando en el proyecto COSWARA, donde desarrollamos una aplicación de detección de COVID-19 con inteligencia artificial. Me enfoco en el diseño y creación de la base de datos.<br><br>🚀 Apasionado por aportar mis habilidades en el emocionante mundo del desarrollo web y los videojuegos. Siempre en busca de nuevos desafíos para crecer profesionalmente y marcar la diferencia.
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociales:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/fer_rex/?hl=es) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fernando-rosas-g-591891250/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@_r_e_x__) 
 
 # 💻 Tech Stack:
