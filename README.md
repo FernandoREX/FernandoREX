@@ -1,4 +1,6 @@
 # 🧙‍♂️ Hola!!! me llamo Fernando y soy...
+![Logo Florista Circular Blanco Negro](https://github.com/FernandoREX/FernandoREX/assets/74227680/1311050d-5154-40d3-8b68-bee03b4ee469)
+
 👨‍💻 Desarrollador especializado en desarrollo web y 🎮 videojuegos.<br><br>💼 Presidente de SODVI (Sociedad de Desarrollo en Videojuegos).<br><br>🎮💻 Experiencia en el desarrollo de videojuegos utilizando Unity, y habilidades en diseño gráfico.<br><br>🏆 Certificaciones en Azure AZ900 y en Fundamentos de Scrum, y reconocimientos por participación destacada en hackatones.<br><br>🔬 Actualmente colaborando en el proyecto COSWARA, donde desarrollamos una aplicación de detección de COVID-19 con inteligencia artificial. Me enfoco en el diseño y creación de la base de datos.<br><br>🚀 Apasionado por aportar mis habilidades en el emocionante mundo del desarrollo web y los videojuegos. Siempre en busca de nuevos desafíos para crecer profesionalmente y marcar la diferencia.
 
 
