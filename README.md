@@ -45,6 +45,7 @@ GitHub: [RunFromTheDark]( https://github.com/FernandoREX/RunFromTheDark)
 
 * **El Mundo de UwUmpus:⚔**
 "El Mundo de UwUmpus" se basa en el clásico juego de aventura y lógica "Mundo de Wumpus". Te aventurarás en una misteriosa cueva repleta de desafíos, buscando tesoros mientras evitas al temible Wumpus y traicioneros pozos. Este juego es una experiencia emocionante y entretenida que te reta a resolver puzzles y tomar decisiones estratégicas mientras exploras la cueva en busca de recompensas.
+
 GitHub: [El Mundo de UwUmpus](https://github.com/FernandoREX/The_world_of_UwUmpus_apk_beta)
 
 ## 🌐 Redes Sociales:
