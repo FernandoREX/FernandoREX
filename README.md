@@ -18,25 +18,15 @@
 
 🎯 A continuación, te invito a explorar algunos de mis proyectos más destacados, cada uno con su propia narrativa y desafíos únicos. Estos juegos no solo son muestras de mis habilidades técnicas, sino también testimonios de mi constante búsqueda de la excelencia en el desarrollo de videojuegos.
 
-* **Candy Boom: 🍭**
-Bienvenido a Candy BOOM, un emocionante juego de disparos en primera persona con temática de galletas. En este juego, te adentrarás en el mundo de una valiente galleta armada con una variedad de armas de fuego que utilizan dulces llamados "rompe muelas" como munición. Tu misión es enfrentarte a enemigos desafiantes, como galletas zombies y panques zombies, utilizando tus habilidades de tiro y astucia para avanzar en el juego. Pero ten cuidado, estos enemigos no son tontos y harán lo que sea necesario para derrotarte. La aventura culmina en un enfrentamiento épico contra un pastel zombie gigante. ¿Tienes lo que se necesita para vencer a este monstruo y salvar el mundo de las galletas zombies en Candy BOOM?
+# Mis Juegos
 
-GitHub: [Candy Boom](https://github.com/FernandoREX/CandyBOOM)
+| Juegos | Descripción |
+| --- | --- |
+| ![img6](https://github.com/FernandoREX/FernandoREX/assets/74227680/8201b567-ec71-4c38-9d56-f4cd0ecfefe6)| **Candy Boom: 🍭**<br>Bienvenido a Candy BOOM, un emocionante juego de disparos en primera persona con temática de galletas. En este juego, te adentrarás en el mundo de una valiente galleta armada con una variedad de armas de fuego que utilizan dulces llamados "rompe muelas" como munición. Tu misión es enfrentarte a enemigos desafiantes, como galletas zombies y panques zombies, utilizando tus habilidades de tiro y astucia para avanzar en el juego. Pero ten cuidado, estos enemigos no son tontos y harán lo que sea necesario para derrotarte. La aventura culmina en un enfrentamiento épico contra un pastel zombie gigante. ¿Tienes lo que se necesita para vencer a este monstruo y salvar el mundo de las galletas zombies en Candy BOOM?<br>GitHub: [Candy Boom](https://github.com/FernandoREX/CandyBOOM) |
+|![img6](https://github.com/FernandoREX/FernandoREX/assets/74227680/fad3a1ad-a0ab-4fc4-adc5-67a97d0d02b3)| **Orcos un Mundo Mágico:🏹**<br>"Orcos un Mundo Mágico" es un emocionante proyecto "Endless Runner" desarrollado en Unity 2D. El juego te pone en control de un personaje que corre sin parar mientras esquivas obstáculos y recolectas valiosos objetos. Este juego sirve como una plantilla para futuros proyectos en Unity y es una excelente oportunidad para aprender los fundamentos de la creación de juegos en Unity.<br>GitHub: [Orcos un Mundo Mágico](https://github.com/FernandoREX/Orcos_Un_Mundo_Magico) |
+|![img6 (1)](https://github.com/FernandoREX/FernandoREX/assets/74227680/524daceb-78b0-4b20-90f2-4562b38129fa) | **Teyolia Ixpuxtequi:👹**<br>El juego se llama Teyolia Ixpuxtequi, que significa "La posesión" de Ixpuxtequi, quien es el dios de los viajeros y esposo de la diosa del miedo, conocido por no ser bueno con la gente que se encuentran solos en los caminos. Teyolia hace referencia a una posesión espiritual, fantasmal. Es un videojuego en realidad virtual usando los Meta Quest 2.<br>GitHub: [Teyolia Ixpuxtequi](https://github.com/FernandoREX/Teyolia_Ixpuxtequi) |
+|![Screenshot_20240526_003754](https://github.com/FernandoREX/FernandoREX/assets/74227680/44304e53-241b-421a-92d0-03bb88e52097)| **El Mundo de UwUmpus:⚔**<br>"El Mundo de UwUmpus" se basa en el clásico juego de aventura y lógica "Mundo de Wumpus". Te aventurarás en una misteriosa cueva repleta de desafíos, buscando tesoros mientras evitas al temible Wumpus y traicioneros pozos. Este juego es una experiencia emocionante y entretenida que te reta a resolver puzzles y tomar decisiones estratégicas mientras exploras la cueva en busca de recompensas.<br>GitHub: [El Mundo de UwUmpus](https://github.com/FernandoREX/The_world_of_UwUmpus_apk_beta) |
 
-* **Orcos un Mundo Mágico:🏹**
-"Orcos un Mundo Mágico" es un emocionante proyecto "Endless Runner" desarrollado en Unity 2D. El juego te pone en control de un personaje que corre sin parar mientras esquivas obstáculos y recolectas valiosos objetos. Este juego sirve como una plantilla para futuros proyectos en Unity y es una excelente oportunidad para aprender los fundamentos de la creación de juegos en Unity.
-
-GitHub: [Orcos un Mundo Mágico]( https://github.com/FernandoREX/Orcos_Un_Mundo_Magico)
-
-* **RunFromTheDark:👹**
-"RunFromTheDark" es un juego que te sumerge en una experiencia única. Controlarás el alma de Leopoldo mientras vives sus pesadillas y te enfrentas a feroces criaturas en un juego de tipo "endless runner". La historia se desarrolla mientras intentas obtener la mayor cantidad de puntos posible. Este juego no solo busca entretener, sino también contar la historia de Leopoldo y sus desafíos para escapar de sus pesadillas. Además, "RunFromTheDark" es notable porque fue mi primer juego desarrollado en Unity.
-
-GitHub: [RunFromTheDark]( https://github.com/FernandoREX/RunFromTheDark)
-
-* **El Mundo de UwUmpus:⚔**
-"El Mundo de UwUmpus" se basa en el clásico juego de aventura y lógica "Mundo de Wumpus". Te aventurarás en una misteriosa cueva repleta de desafíos, buscando tesoros mientras evitas al temible Wumpus y traicioneros pozos. Este juego es una experiencia emocionante y entretenida que te reta a resolver puzzles y tomar decisiones estratégicas mientras exploras la cueva en busca de recompensas.
-
-GitHub: [El Mundo de UwUmpus](https://github.com/FernandoREX/The_world_of_UwUmpus_apk_beta)
 
 ## 🌐 Redes Sociales:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fer_rex/?hl=es) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//fernando-rosas-g-591891250/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@_r_e_x__) 
