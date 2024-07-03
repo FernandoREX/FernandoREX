@@ -9,7 +9,7 @@
 * Sitio web: https://sodvi.com/
 * GitHub: https://github.com/sodvi-games
 
-## 🧟‍♀️Creando mundos MAGICOS!⚔
+
 ![MundoMagico](https://github.com/FernandoREX/FernandoREX/assets/74227680/316b33c7-dba4-47a8-be99-bd7bcbf5562b)
 
 🎮 Como apasionado desarrollador en el campo de los videojuegos y el desarrollo web, he tenido el privilegio de crear una serie de proyectos emocionantes y desafiantes en Unity, una de las plataformas de desarrollo de juegos más populares del mundo. Cada uno de mis proyectos refleja mi dedicación a la innovación, la creatividad y la excelencia técnica.
@@ -18,7 +18,8 @@
 
 🎯 A continuación, te invito a explorar algunos de mis proyectos más destacados, cada uno con su propia narrativa y desafíos únicos. Estos juegos no solo son muestras de mis habilidades técnicas, sino también testimonios de mi constante búsqueda de la excelencia en el desarrollo de videojuegos.
 
-## Mis Mundos Magicos
+![Logo Florista Circular Blanco Negro](https://github.com/FernandoREX/FernandoREX/assets/74227680/75cfbe79-faf8-41e1-b25f-bf6cbb8ede59)
+
 
 | Juegos | Descripción |
 | --- | --- |
